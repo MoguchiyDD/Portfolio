@@ -6,7 +6,7 @@
 
 ### [Тестовые Задания (ТЗ)](https://github.com/MoguchiyDD/technicaltest)
 Основная папка, где будут выкладываться выполненные ТЗ (если не доступна, то идёт выполнение ТЗ)
-- NestJS (1)
+- NestJS (2)
 
 ### Официальные сайты
 - **Exciton_2023-10-06.mp4** : Официальный сайт «Инженерный центр «Exciton»
@@ -27,7 +27,7 @@ Every project has my autograph: "**МогучийДД (MoguchiyDD)**"
 
 ### [Technical Test (TT)](https://github.com/MoguchiyDD/technicaltest)
 The Main Folder where completed TT will be posted (if not available, then TT are being completed)
-- NestJS (1)
+- NestJS (2)
 
 ### Official sites
 - **Exciton_2023-10-06.mp4** : Official website of the «Инженерный центр «Exciton»
