@@ -8,6 +8,7 @@
 Основная папка, где будут выкладываться выполненные ТЗ (если не доступна, то идёт выполнение ТЗ)
 - NestJS (2)
 - NodeJS (1)
+- ReactJS (1)
 
 ### Официальные сайты
 - **Exciton_2023-10-06.mp4** : Официальный сайт «Инженерный центр «Exciton»
@@ -30,6 +31,7 @@ Every project has my autograph: "**МогучийДД (MoguchiyDD)**"
 The Main Folder where completed TT will be posted (if not available, then TT are being completed)
 - NestJS (2)
 - NodeJS (1)
+- ReactJS (1)
 
 ### Official sites
 - **Exciton_2023-10-06.mp4** : Official website of the «Инженерный центр «Exciton»
