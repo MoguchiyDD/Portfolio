@@ -4,9 +4,12 @@ Every project has my autograph: "**МогучийДД (MoguchiyDD)**"
 
 ### [Technical Test (TT)](https://github.com/MoguchiyDD/technicaltest)
 The Main Folder where completed TT will be posted (if not available, then TT are being completed)
-- NestJS (2)
-- NodeJS (1)
-- ReactJS (1)
+<div id="technical-tests" align="left">
+  <img alt="NestJS (2)" src="https://img.shields.io/badge/NestJS-2-B71C1C?style=for-the-badge" />
+  <img alt="NodeJS (1)" src="https://img.shields.io/badge/NodeJS-1-B71C1C?style=for-the-badge" />
+  <img alt="Python (1)" src="https://img.shields.io/badge/Python-1-B71C1C?style=for-the-badge" />
+  <img alt="ReactJS (1)" src="https://img.shields.io/badge/ReactJS-1-B71C1C?style=for-the-badge" />
+</div>
 
 ### Official sites
 - **Exciton_2023-10-06.mp4** : Official website of the «Инженерный центр «Exciton»
