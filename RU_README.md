@@ -2,7 +2,7 @@
 
 На каждом проекте стоит моя подпись: "**МогучийДД (MoguchiyDD)**"
 
-### [Тестовые Задания (ТЗ)](https://github.com/MoguchiyDD/technicaltest)
+### [Тестовые Задания (ТЗ)](https://github.com/MoguchiyDD/TechnicalTest)
 Основная папка, где будут выкладываться выполненные ТЗ (если не доступна, то идёт выполнение ТЗ)
 <div id="technical-tests" align="left">
   <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Kivy" target="_blank">
