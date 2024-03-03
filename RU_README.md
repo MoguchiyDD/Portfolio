@@ -15,7 +15,7 @@
     <img alt="NodeJS (1)" src="https://img.shields.io/badge/NodeJS-1-B71C1C?style=for-the-badge" />
   </a>
   <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/ReactJS" target="_blank">
-    <img alt="ReactJS (1)" src="https://img.shields.io/badge/ReactJS-1-B71C1C?style=for-the-badge" />
+    <img alt="ReactJS (2)" src="https://img.shields.io/badge/ReactJS-2-B71C1C?style=for-the-badge" />
   </a>
 </div>
 
