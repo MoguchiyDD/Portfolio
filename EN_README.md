@@ -2,7 +2,7 @@
 
 Every project has my autograph: "**МогучийДД (MoguchiyDD)**"
 
-### [Technical Test (TT)](https://github.com/MoguchiyDD/technicaltest)
+### [Technical Test (TT)](https://github.com/MoguchiyDD/TechnicalTest)
 The Main Folder where completed TT will be posted (if not available, then TT are being completed)
 <div id="technical-tests" align="left">
   <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Kivy" target="_blank">
