@@ -5,6 +5,9 @@ Every project has my autograph: "**МогучийДД (MoguchiyDD)**"
 ### [Technical Test (TT)](https://github.com/MoguchiyDD/TechnicalTest)
 The Main Folder where completed TT will be posted (if not available, then TT are being completed)
 <div id="technical-tests" align="left">
+  <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Django" target="_blank">
+    <img alt="Django (1)" src="https://img.shields.io/badge/Django-1-B71C1C?style=for-the-badge" />
+  </a>
   <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Kivy" target="_blank">
     <img alt="Kivy (1)" src="https://img.shields.io/badge/Kivy-1-B71C1C?style=for-the-badge" />
   </a>
