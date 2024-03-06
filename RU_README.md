@@ -5,6 +5,9 @@
 ### [Тестовые Задания (ТЗ)](https://github.com/MoguchiyDD/TechnicalTest)
 Основная папка, где будут выкладываться выполненные ТЗ (если не доступна, то идёт выполнение ТЗ)
 <div id="technical-tests" align="left">
+  <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Django" target="_blank">
+    <img alt="Django (1)" src="https://img.shields.io/badge/Django-1-B71C1C?style=for-the-badge" />
+  </a>
   <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Kivy" target="_blank">
     <img alt="Kivy (1)" src="https://img.shields.io/badge/Kivy-1-B71C1C?style=for-the-badge" />
   </a>
