@@ -1,9 +1,13 @@
 # Portfolio
-
 Every project has my autograph: "**МогучийДД (MoguchiyDD)**"
 
+### [Beginning of Road](https://github.com/MoguchiyDD/Beginning-of-Road)
+The Main Repository where created projects in the C language will be posted
+- Main Documentation in Chinese
+- Code Documentation in English
+
 ### [Technical Test (TT)](https://github.com/MoguchiyDD/TechnicalTest)
-The Main Folder where completed TT will be posted (if not available, then TT are being completed)
+The Main Repository where completed TT will be posted (if not available, then TT are being completed)
 <div id="technical-tests" align="left">
   <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Django" target="_blank">
     <img alt="Django (1)" src="https://img.shields.io/badge/Django-1-B71C1C?style=for-the-badge" />
