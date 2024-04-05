@@ -1,9 +1,13 @@
 # Портфолио
-
 На каждом проекте стоит моя подпись: "**МогучийДД (MoguchiyDD)**"
 
+### [Начало Пути](https://github.com/MoguchiyDD/Beginning-of-Road)
+Основной репозиторий, где будут выкладываться созданные проекты на языке C
+- Основная документация на китайском языке
+- Документация кода на английском языке
+
 ### [Тестовые Задания (ТЗ)](https://github.com/MoguchiyDD/TechnicalTest)
-Основная папка, где будут выкладываться выполненные ТЗ (если не доступна, то идёт выполнение ТЗ)
+Основной репозиторий, где будут выкладываться выполненные ТЗ (если не доступна, то идёт выполнение ТЗ)
 <div id="technical-tests" align="left">
   <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Django" target="_blank">
     <img alt="Django (1)" src="https://img.shields.io/badge/Django-1-B71C1C?style=for-the-badge" />
