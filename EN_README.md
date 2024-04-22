@@ -36,5 +36,8 @@ The Main Repository where completed TT will be posted (if not available, then TT
 ### Designs
 - **Stickers-FCU.mp4** : Design of stickers for 2 versions of FCU Controllers
 
-### Software
+### Games
+- **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper/tree/Python)** : Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**)
+
+### Softwares
 - **[GtL](https://github.com/MoguchiyDD/GtL)** : The idea is to help people reduce the time it takes to edit text after copying from a PDF file, for example journalists. More details can be found in the repository itself
