@@ -27,14 +27,15 @@ The Main Repository where completed TT will be posted (if not available, then TT
 </div>
 
 ### :100: Official sites
-- **Exciton_2023-10-06.mp4** : Official website of the «Инженерный центр «Exciton»
+- **[Exciton_2023-10-06.mp4](portfolio/Exciton_2023-10-06.mp4)** : Official website of the «Инженерный центр «Exciton»
 
 ### :last_quarter_moon: WEB Pages
-- **Light-Schedule.mp4** : Schedule for controlling Street Light (*Design (primary) + Functionality (full)*)
-- **WiFi-Manager.png** : Primary design for WiFi control on FCU Controller
+- **[Light-Schedule.mp4](portfolio/Light-Schedule.mp4)** : Schedule for controlling Street Light (*Design (primary) + Functionality (full)*)
+- **[WiFi-Manager.png](portfolio/WiFi-Manager.png)** : Primary design for WiFi control on FCU Controller
 
 ### :art: Designs
-- **Stickers-FCU.mp4** : Design of stickers for 2 versions of FCU Controllers
+- **[Releases.gif](portfolio/Releases.gif)** :  Designs for releases using the **Inkscape** program
+- **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)** : Design of stickers for 2 versions of FCU Controllers
 
 ### :video_game: Games
 - **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper/tree/Python)** : Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**)
