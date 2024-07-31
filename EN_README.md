@@ -6,6 +6,12 @@ The Main Repository where created projects in the C language will be posted
 - Main Documentation in Chinese
 - Code Documentation in English
 
+### :door: [Scripts](https://github.com/MoguchiyDD/Box)
+Repository of various small scripts
+<div id="scripts" align="left">
+  <img alt="Python3 (1)" src="https://img.shields.io/badge/Python3-1-B71C1C?style=for-the-badge" />
+</div>
+
 ### :genie: [Technical Test (TT)](https://github.com/MoguchiyDD/TechnicalTest)
 The Main Repository where completed TT will be posted (if not available, then TT are being completed)
 <div id="technical-tests" align="left">
