@@ -6,6 +6,12 @@
 - Основная документация на китайском языке
 - Документация кода на английском языке
 
+### :door: [Скрипты](https://github.com/MoguchiyDD/Box)
+Репозиторий различных небольших скриптов
+<div id="scripts" align="left">
+  <img alt="Python3 (1)" src="https://img.shields.io/badge/Python3-1-B71C1C?style=for-the-badge" />
+</div>
+
 ### :genie: [Тестовые Задания (ТЗ)](https://github.com/MoguchiyDD/TechnicalTest)
 Основной репозиторий, где будут выкладываться выполненные ТЗ (если не доступна, то идёт выполнение ТЗ)
 <div id="technical-tests" align="left">
