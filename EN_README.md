@@ -13,23 +13,21 @@ Repository of various small scripts
 </div>
 
 ### :genie: [Technical Test (TT)](https://github.com/MoguchiyDD/TechnicalTest)
-The Main Repository where completed TT will be posted (if not available, then TT are being completed)
-<div id="technical-tests" align="left">
-  <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Django" target="_blank">
-    <img alt="Django (1)" src="https://img.shields.io/badge/Django-1-B71C1C?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/Kivy" target="_blank">
-    <img alt="Kivy (1)" src="https://img.shields.io/badge/Kivy-1-B71C1C?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/NestJS" target="_blank">
-    <img alt="NestJS (2)" src="https://img.shields.io/badge/NestJS-2-B71C1C?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/NodeJS" target="_blank">
-    <img alt="NodeJS (1)" src="https://img.shields.io/badge/NodeJS-1-B71C1C?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MoguchiyDD/TechnicalTest/tree/main/ReactJS" target="_blank">
-    <img alt="ReactJS (3)" src="https://img.shields.io/badge/ReactJS-3-B71C1C?style=for-the-badge" />
-  </a>
+The Main Repository where completed Technical Tests will be posted
+#### Classification
+<div id="technical-tests-types" align="left">
+  <img alt="Bots (2)" src="https://img.shields.io/badge/Bots-2-B71C1C?style=for-the-badge" />
+  <img alt="FullStack (1)" src="https://img.shields.io/badge/FullStack-1-B71C1C?style=for-the-badge" />
+  <img alt="FrontEnd (4)" src="https://img.shields.io/badge/FrontEnd-4-B71C1C?style=for-the-badge" />
+  <img alt="BackEnd (2)" src="https://img.shields.io/badge/BackEnd-2-B71C1C?style=for-the-badge" />
+</div>
+
+#### Completed (9)
+<div id="technical-tests-language" align="left">
+  <img alt="Python (3)" src="https://img.shields.io/badge/Python-3-1A237E?style=for-the-badge" />
+  <img alt="NestJS (2)" src="https://img.shields.io/badge/NestJS-2-1A237E?style=for-the-badge" />
+  <img alt="NodeJS (1)" src="https://img.shields.io/badge/NodeJS-1-1A237E?style=for-the-badge" />
+  <img alt="ReactJS (3)" src="https://img.shields.io/badge/ReactJS-3-1A237E?style=for-the-badge" />
 </div>
 
 ### :100: Official sites
