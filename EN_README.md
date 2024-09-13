@@ -13,7 +13,9 @@ Repository of various small scripts
 </div>
 
 ### :genie: [Technical Test (TT)](https://github.com/MoguchiyDD/TechnicalTest)
-The Main Repository where completed Technical Tests will be posted
+The Main Repository where completed Technical Tests will be posted \
+The results can be viewed without code on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXArcVUY3pRjxn2shc-hLmXT)
+
 #### Classification
 <div id="technical-tests-types" align="left">
   <img alt="Bots (2)" src="https://img.shields.io/badge/Bots-2-B71C1C?style=for-the-badge" />
