@@ -13,7 +13,9 @@
 </div>
 
 ### :genie: [Тестовые Задания (ТЗ)](https://github.com/MoguchiyDD/TechnicalTest)
-Основной репозиторий, где будут выкладываться завершённые Тестовые Задания
+Основной репозиторий, где будут выкладываться завершённые Тестовые Задания \
+Результаты можно просмотреть без кода через [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXArcVUY3pRjxn2shc-hLmXT)
+
 #### Классификация
 <div id="technical-tests-types" align="left">
   <img alt="Bots (2)" src="https://img.shields.io/badge/Bots-2-B71C1C?style=for-the-badge" />
