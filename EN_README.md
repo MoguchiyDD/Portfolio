@@ -1,5 +1,4 @@
 # Portfolio
-Every project has my autograph: "**МогучийДД (MoguchiyDD)**"
 
 ### :cyclone: [Beginning of Road](https://github.com/MoguchiyDD/Beginning-of-Road)
 The Main Repository where created projects in the C language will be posted
