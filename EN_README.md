@@ -19,16 +19,17 @@ The results can be viewed without code on [YouTube](https://www.youtube.com/play
 <div id="technical-tests-types" align="left">
   <img alt="Bots (2)" src="https://img.shields.io/badge/Bots-2-B71C1C?style=for-the-badge" />
   <img alt="FullStack (1)" src="https://img.shields.io/badge/FullStack-1-B71C1C?style=for-the-badge" />
-  <img alt="FrontEnd (4)" src="https://img.shields.io/badge/FrontEnd-4-B71C1C?style=for-the-badge" />
+  <img alt="FrontEnd (5)" src="https://img.shields.io/badge/FrontEnd-5-B71C1C?style=for-the-badge" />
   <img alt="BackEnd (2)" src="https://img.shields.io/badge/BackEnd-2-B71C1C?style=for-the-badge" />
 </div>
 
-#### Completed (9)
+## Completed (10)
 <div id="technical-tests-language" align="left">
   <img alt="Python (3)" src="https://img.shields.io/badge/Python-3-1A237E?style=for-the-badge" />
   <img alt="NestJS (2)" src="https://img.shields.io/badge/NestJS-2-1A237E?style=for-the-badge" />
   <img alt="NodeJS (1)" src="https://img.shields.io/badge/NodeJS-1-1A237E?style=for-the-badge" />
   <img alt="ReactJS (3)" src="https://img.shields.io/badge/ReactJS-3-1A237E?style=for-the-badge" />
+  <img alt="Static (1)" src="https://img.shields.io/badge/Static-1-1A237E?style=for-the-badge" />
 </div>
 
 ### :100: Official sites
