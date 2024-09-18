@@ -32,7 +32,7 @@
 
 ### :last_quarter_moon: Сайты
 - **[Exciton_2023-10-06.mp4](portfolio/Exciton_2023-10-06.mp4)** : Официальный сайт «Инженерный центр «Exciton»
-- **[Light-Schedule.mp4](portfolio/Light-Schedule.mp4)** : Расписание для управления уличным светом
+- **[Light-Schedule.gif](portfolio/Light-Schedule.gif)** : Расписание для управления уличным светом
 - **[WiFi-Manager.gif](portfolio/WiFi-Manager.gif)** : Дизайн по управлению WiFi на контроллере FCU
 
 ### :art: Дизайны
