@@ -1,9 +1,7 @@
 # Portfolio
 
 ### :cyclone: [Beginning of Road](https://github.com/MoguchiyDD/Beginning-of-Road)
-The Main Repository where created projects in the C language will be posted
-- Main Documentation in Chinese
-- Code Documentation in English
+The Main repository where created projects in medium level will be uploaded
 
 ### :door: [Scripts](https://github.com/MoguchiyDD/Box)
 Repository of various small scripts
@@ -32,12 +30,10 @@ The results can be viewed without code on [YouTube](https://www.youtube.com/play
   <img alt="Static (1)" src="https://img.shields.io/badge/Static-1-1A237E?style=for-the-badge" />
 </div>
 
-### :100: Official sites
+### :last_quarter_moon: Sites
 - **[Exciton_2023-10-06.mp4](portfolio/Exciton_2023-10-06.mp4)** : Official website of the «Инженерный центр «Exciton»
-
-### :last_quarter_moon: WEB Pages
-- **[Light-Schedule.mp4](portfolio/Light-Schedule.mp4)** : Schedule for controlling Street Light (*Design (primary) + Functionality (full)*)
-- **[WiFi-Manager.png](portfolio/WiFi-Manager.png)** : Primary design for WiFi control on FCU Controller
+- **[Light-Schedule.mp4](portfolio/Light-Schedule.mp4)** : Schedule for controlling Street Light
+- **[WiFi-Manager.png](portfolio/WiFi-Manager.png)** : Design for WiFi control on FCU Controller
 
 ### :art: Designs
 - **[Releases.gif](portfolio/Releases.gif)** :  Designs for releases using the **Inkscape** program
