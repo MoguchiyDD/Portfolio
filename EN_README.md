@@ -33,7 +33,7 @@ The results can be viewed without code on [YouTube](https://www.youtube.com/play
 ### :last_quarter_moon: Sites
 - **[Exciton_2023-10-06.mp4](portfolio/Exciton_2023-10-06.mp4)** : Official website of the «Инженерный центр «Exciton»
 - **[Light-Schedule.mp4](portfolio/Light-Schedule.mp4)** : Schedule for controlling Street Light
-- **[WiFi-Manager.png](portfolio/WiFi-Manager.png)** : Design for WiFi control on FCU Controller
+- **[WiFi-Manager.gif](portfolio/WiFi-Manager.gif)** : Design for WiFi control on FCU Controller
 
 ### :art: Designs
 - **[Releases.gif](portfolio/Releases.gif)** :  Designs for releases using the **Inkscape** program
