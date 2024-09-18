@@ -31,16 +31,24 @@ The results can be viewed without code on [YouTube](https://www.youtube.com/play
 </div>
 
 ### :last_quarter_moon: Sites
-- **[Exciton_2023-10-06.mp4](portfolio/Exciton_2023-10-06.mp4)** : Official website of the «Инженерный центр «Exciton»
-- **[Light-Schedule.gif](portfolio/Light-Schedule.gif)** : Schedule for controlling Street Light
-- **[WiFi-Manager.gif](portfolio/WiFi-Manager.gif)** : Design for WiFi manager on FCU Controller
+|                              Path                              |                     Description                     |
+| -------------------------------------------------------------- | --------------------------------------------------- |
+| **[Exciton_2023-10-06.mp4](portfolio/Exciton_2023-10-06.mp4)** | Official website of the «Инженерный центр «Exciton» |
+| **[Light-Schedule.gif](portfolio/Light-Schedule.gif)**         | Schedule for controlling Street Light               |
+| **[WiFi-Manager.gif](portfolio/WiFi-Manager.gif)**             | Design for WiFi manager on FCU Controller           |
 
 ### :art: Designs
-- **[Releases.gif](portfolio/Releases.gif)** :  Designs for releases using the **Inkscape** program
-- **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)** : Design of stickers for 2 versions of FCU Controllers
+|                        Path                        |                     Description                      |
+| -------------------------------------------------- | ---------------------------------------------------- |
+| **[Releases.gif](portfolio/Releases.gif)**         | Designs for releases using the **Inkscape** program  |
+| **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)** | Design of stickers for 2 versions of FCU Controllers |
 
 ### :video_game: Games
-- **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper/tree/Python)** : Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**)
+|                             Path                             |                                        Description                                        |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**) |
 
 ### :izakaya_lantern: Softwares
-- **[GtL](https://github.com/MoguchiyDD/GtL)** : The idea is to help people reduce the time it takes to edit text after copying from a PDF file, for example journalists. More details can be found in the repository itself
+|                     Path                     |                                                       Description                                                       |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **[GtL](https://github.com/MoguchiyDD/GtL)** | The idea is to help people reduce the time it takes to edit text after copying from a PDF file, for example journalists |
