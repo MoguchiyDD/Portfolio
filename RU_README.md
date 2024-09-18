@@ -1,9 +1,7 @@
 # Портфолио
 
 ### :cyclone: [Начало Пути](https://github.com/MoguchiyDD/Beginning-of-Road)
-Основной репозиторий, где будут выкладываться созданные проекты на языке C
-- Основная документация на китайском языке
-- Документация кода на английском языке
+Основной репозиторий, где будут выкладываться созданные проекты на средних языках
 
 ### :door: [Скрипты](https://github.com/MoguchiyDD/Box)
 Репозиторий различных небольших скриптов
@@ -32,12 +30,10 @@
   <img alt="Static (1)" src="https://img.shields.io/badge/Static-1-1A237E?style=for-the-badge" />
 </div>
 
-### :100: Официальные сайты
+### :last_quarter_moon: Сайты
 - **[Exciton_2023-10-06.mp4](portfolio/Exciton_2023-10-06.mp4)** : Официальный сайт «Инженерный центр «Exciton»
-
-### :last_quarter_moon: WEB-Страницы
-- **[Light-Schedule.mp4](portfolio/Light-Schedule.mp4)** : Расписание для управления уличным светом (*Дизайн (первичный) + Функционал (полный)*)
-- **[WiFi-Manager.png](portfolio/WiFi-Manager.png)** : Первичный дизайн по управлению WiFi на контроллере FCU
+- **[Light-Schedule.mp4](portfolio/Light-Schedule.mp4)** : Расписание для управления уличным светом
+- **[WiFi-Manager.png](portfolio/WiFi-Manager.png)** : Дизайн по управлению WiFi на контроллере FCU
 
 ### :art: Дизайны
 - **[Releases.gif](portfolio/Releases.gif)** :  Дизайны для релизов через программу **Inkscape**
