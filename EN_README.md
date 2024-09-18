@@ -23,7 +23,7 @@ The results can be viewed without code on [YouTube](https://www.youtube.com/play
   <img alt="BackEnd (2)" src="https://img.shields.io/badge/BackEnd-2-B71C1C?style=for-the-badge" />
 </div>
 
-## Completed (10)
+#### Completed (10)
 <div id="technical-tests-language" align="left">
   <img alt="Python (3)" src="https://img.shields.io/badge/Python-3-1A237E?style=for-the-badge" />
   <img alt="NestJS (2)" src="https://img.shields.io/badge/NestJS-2-1A237E?style=for-the-badge" />
