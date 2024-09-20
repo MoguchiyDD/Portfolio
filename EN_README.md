@@ -50,7 +50,7 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
 | **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**) |
 
-### :izakaya_lantern: Softwares
+### :izakaya_lantern: Applications
 You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBYTcNX2VrCKijeUb8nuEyd)
 |                     Path                     |                                                       Description                                                       |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
