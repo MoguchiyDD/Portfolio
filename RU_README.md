@@ -38,17 +38,20 @@
 | **[WiFi-Manager.gif](portfolio/WiFi-Manager.gif)**             | Дизайн по управлению WiFi на контроллере FCU |
 
 ### :art: Дизайны
+Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAABMCUZQoGRr8jjR1JFllY)
 |                        Путь                        |                     Описание                     |
 | -------------------------------------------------- | ------------------------------------------------ |
 | **[Releases.gif](portfolio/Releases.gif)**         | Дизайны для релизов через программу **Inkscape** |
 | **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)** | Дизайн наклеек на 2 версии контроллеров FCU      |
 
 ### :video_game: Игры
+Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCn_hZP2_VwwIGJ1S9gQsXM)
 |                             Путь                             |                                 Описание                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Создание игры Сапёр. Бомб от 10 до 19 (рандом) (**Python** + **Tkinter**) |
 
 ### :izakaya_lantern: Программные Обеспечения
+Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBYTcNX2VrCKijeUb8nuEyd)
 |                     Путь                     |                                                                 Описание                                                                 |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **[GtL](https://github.com/MoguchiyDD/GtL)** | Идея состоит в том, чтобы помогать людям сокращать время для редактирования текста после копирования из PDF-файла, например, журналистам |
