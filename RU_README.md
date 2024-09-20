@@ -5,7 +5,8 @@
 Результаты можно просмотреть без кода через [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXDVmG1R65YzSU-u8oCPgatN)
 
 ### :door: [Скрипты](https://github.com/MoguchiyDD/Box)
-Репозиторий различных небольших скриптов
+Репозиторий различных небольших скриптов \
+Результаты можно просмотреть без кода через [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXDVmG1R65YzSU-u8oCPgatN)
 <div id="scripts" align="left">
   <img alt="Python3 (1)" src="https://img.shields.io/badge/Python3-1-B71C1C?style=for-the-badge" />
 </div>
