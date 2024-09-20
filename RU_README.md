@@ -1,7 +1,7 @@
 # Портфолио
 
 ### :cyclone: [Начало Пути](https://github.com/MoguchiyDD/Beginning-of-Road)
-Основной репозиторий, где будут выкладываться созданные проекты на средних языках
+Основной репозиторий, где будут выкладываться созданные проекты на средних языках \
 Результаты можно просмотреть без кода через [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXDVmG1R65YzSU-u8oCPgatN)
 
 ### :door: [Скрипты](https://github.com/MoguchiyDD/Box)
