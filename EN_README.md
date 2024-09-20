@@ -38,17 +38,20 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 | **[WiFi-Manager.gif](portfolio/WiFi-Manager.gif)**             | Design for WiFi manager on FCU Controller           |
 
 ### :art: Designs
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAABMCUZQoGRr8jjR1JFllY)
 |                        Path                        |                     Description                      |
 | -------------------------------------------------- | ---------------------------------------------------- |
 | **[Releases.gif](portfolio/Releases.gif)**         | Designs for releases using the **Inkscape** program  |
 | **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)** | Design of stickers for 2 versions of FCU Controllers |
 
 ### :video_game: Games
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCn_hZP2_VwwIGJ1S9gQsXM)
 |                             Path                             |                                        Description                                        |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
 | **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**) |
 
 ### :izakaya_lantern: Softwares
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBYTcNX2VrCKijeUb8nuEyd)
 |                     Path                     |                                                       Description                                                       |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **[GtL](https://github.com/MoguchiyDD/GtL)** | The idea is to help people reduce the time it takes to edit text after copying from a PDF file, for example journalists |
