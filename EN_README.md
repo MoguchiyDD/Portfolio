@@ -1,7 +1,8 @@
 # Portfolio
 
 ### :cyclone: [Beginning of Road](https://github.com/MoguchiyDD/Beginning-of-Road)
-The Main repository where created projects in medium level will be uploaded
+The Main repository where created projects in medium level will be uploaded \
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXDVmG1R65YzSU-u8oCPgatN)
 
 ### :door: [Scripts](https://github.com/MoguchiyDD/Box)
 Repository of various small scripts
