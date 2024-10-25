@@ -61,6 +61,6 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 
 ### :movie_camera: Music Video
 You can view the results in ___the posts on my Telegram account___
-|    Title     |                         Description                         |                     Technologies                     |  Language  |
-| ------------ | ----------------------------------------------------------- | ---------------------------------------------------- | ---------- |
-| **Rána Rië** | The journey of a unicorn that lights the path with its glow | _Creative Thinking_, _ChatGPT_, _Suno AI_, _Luna AI_ | Quenya     |
+|    Title     |                         Description                         |                         Technologies                         |  Language  |
+| ------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| **Rána Rië** | The journey of a unicorn that lights the path with its glow | _Creative Thinking_, _ChatGPT_, _Suno AI_, _Flux_, _Luna AI_ | Quenya     |
