@@ -42,10 +42,11 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 
 ### :art: Designs
 You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAABMCUZQoGRr8jjR1JFllY)
-|                        Path                        |                     Description                      |
-| -------------------------------------------------- | ---------------------------------------------------- |
-| **[Releases.gif](portfolio/Releases.gif)**         | Designs for releases using the **Inkscape** program  |
-| **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)** | Design of stickers for 2 versions of FCU Controllers |
+|                                Path                                |                       Description                       |
+| ------------------------------------------------------------------ | ------------------------------------------------------- |
+| **[Inkscape-GtL.gif](portfolio/Inkscape-GtL.gif)**                 | Design for the GtL desktop application: icon and cover  |
+| **[Inkscape-Minesweeper.gif](portfolio/Inkscape-Minesweeper.gif)** | Design for the Minesweeper desktop game: icon and cover |
+| **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)**                 | Design of stickers for 2 versions of FCU Controllers    |
 
 ### :video_game: Games
 You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCn_hZP2_VwwIGJ1S9gQsXM)
