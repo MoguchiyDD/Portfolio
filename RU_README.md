@@ -42,10 +42,11 @@
 
 ### :art: Дизайны
 Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAABMCUZQoGRr8jjR1JFllY)
-|                        Путь                        |                     Описание                     |
-| -------------------------------------------------- | ------------------------------------------------ |
-| **[Releases.gif](portfolio/Releases.gif)**         | Дизайны для релизов через программу **Inkscape** |
-| **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)** | Дизайн наклеек на 2 версии контроллеров FCU      |
+|                                Путь                                |                         Описание                         |
+| ------------------------------------------------------------------ | -------------------------------------------------------- |
+| **[Inkscape-GtL.gif](portfolio/Inkscape-GtL.gif)**                 | Дизайн для настольного приложения GtL: иконка и обложка  |
+| **[Inkscape-Minesweeper.gif](portfolio/Inkscape-Minesweeper.gif)** | Дизайн для настольной игры Minesweeper: иконка и обложка |
+| **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)**                 | Дизайн наклеек на 2 версии контроллеров FCU              |
 
 ### :video_game: Игры
 Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCn_hZP2_VwwIGJ1S9gQsXM)
