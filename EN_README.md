@@ -43,7 +43,7 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 | **[WiFi-Manager.gif](portfolio/WiFi-Manager.gif)**             | Design for WiFi manager on FCU Controller           |
 
 ### :art: Designs
-You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAABMCUZQoGRr8jjR1JFllY)
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBJaUFMXPVNbW6IQpt751oI)
 |                                Path                                |                       Description                       |
 | ------------------------------------------------------------------ | ------------------------------------------------------- |
 | **[Inkscape-GtL.gif](portfolio/Inkscape-GtL.gif)**                 | Design for the GtL desktop application: icon and cover  |
