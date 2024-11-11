@@ -2,11 +2,11 @@
 
 ### :cyclone: [Beginning of Road](https://github.com/MoguchiyDD/Beginning-of-Road)
 The Main repository where created projects in medium level will be uploaded \
-You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXDVmG1R65YzSU-u8oCPgatN)
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAsXI70FEgmRmWmFpXkYvsT)
 
 ### :door: [Scripts](https://github.com/MoguchiyDD/Box)
 Repository of various small scripts \
-You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXDVmG1R65YzSU-u8oCPgatN)
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAsXI70FEgmRmWmFpXkYvsT)
 <div id="scripts" align="left">
   <img alt="Python3 (1)" src="https://img.shields.io/badge/Python3-1-B71C1C?style=for-the-badge" />
 </div>
