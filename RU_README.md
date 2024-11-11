@@ -36,7 +36,7 @@
 </div>
 
 ### :last_quarter_moon: Сайты
-Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBSo_9ncaBndhur7ffn3yaB)
+Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBb7sqFyPDPUmA6mdFS8f9Z)
 |                              Путь                              |                   Описание                   |
 | -------------------------------------------------------------- | -------------------------------------------- |
 | **[Light-Schedule.gif](portfolio/Light-Schedule.gif)**         | Расписание для управления уличным светом     |
