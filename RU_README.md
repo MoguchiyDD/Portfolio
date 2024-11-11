@@ -13,7 +13,7 @@
 
 ### :genie: [Тестовые Задания (ТЗ)](https://github.com/MoguchiyDD/TechnicalTest)
 Основной репозиторий, где будут выкладываться завершённые Тестовые Задания \
-Результаты можно просмотреть без кода через [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXArcVUY3pRjxn2shc-hLmXT)
+Результаты можно просмотреть без кода через [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXClakBQPXonXXf9_sghTFFC)
 
 #### Классификация
 <div id="technical-tests-types" align="left">
