@@ -51,7 +51,7 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 | **[Stickers-FCU.gif](portfolio/Stickers-FCU.gif)**                 | Design of stickers for 2 versions of FCU Controllers    |
 
 ### :video_game: Games
-You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCn_hZP2_VwwIGJ1S9gQsXM)
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBtKHILNYUqUZr3hvb1aotp)
 |                             Path                             |                                        Description                                        |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
 | **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**) |
