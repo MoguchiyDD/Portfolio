@@ -43,7 +43,7 @@
 | **[WiFi-Manager.gif](portfolio/WiFi-Manager.gif)**             | Дизайн по управлению WiFi на контроллере FCU |
 
 ### :art: Дизайны
-Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAABMCUZQoGRr8jjR1JFllY)
+Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBJaUFMXPVNbW6IQpt751oI)
 |                                Путь                                |                         Описание                         |
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
 | **[Inkscape-GtL.gif](portfolio/Inkscape-GtL.gif)**                 | Дизайн для настольного приложения GtL: иконка и обложка  |
