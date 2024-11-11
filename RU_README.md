@@ -57,7 +57,7 @@
 | **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Создание игры Сапёр. Бомб от 10 до 19 (рандом) (**Python** + **Tkinter**) |
 
 ### :izakaya_lantern: Приложения
-Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBYTcNX2VrCKijeUb8nuEyd)
+Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCMKFSEHMicQ5r0PcTAj2iW)
 |                     Путь                     |                                                                 Описание                                                                 |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **[GtL](https://github.com/MoguchiyDD/GtL)** | Идея состоит в том, чтобы помогать людям сокращать время для редактирования текста после копирования из PDF-файла, например, журналистам |
