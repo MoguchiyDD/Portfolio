@@ -57,7 +57,7 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 | **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**) |
 
 ### :izakaya_lantern: Applications
-You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBYTcNX2VrCKijeUb8nuEyd)
+You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCMKFSEHMicQ5r0PcTAj2iW)
 |                     Path                     |                                                       Description                                                       |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **[GtL](https://github.com/MoguchiyDD/GtL)** | The idea is to help people reduce the time it takes to edit text after copying from a PDF file, for example journalists |
