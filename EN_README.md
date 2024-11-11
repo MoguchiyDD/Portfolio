@@ -13,7 +13,7 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 
 ### :genie: [Technical Test (TT)](https://github.com/MoguchiyDD/TechnicalTest)
 The Main Repository where completed Technical Tests will be posted \
-The results can be viewed without code on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXArcVUY3pRjxn2shc-hLmXT)
+The results can be viewed without code on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXClakBQPXonXXf9_sghTFFC)
 
 #### Classification
 <div id="technical-tests-types" align="left">
