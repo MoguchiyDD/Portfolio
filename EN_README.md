@@ -63,7 +63,7 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 | **[GtL](https://github.com/MoguchiyDD/GtL)** | The idea is to help people reduce the time it takes to edit text after copying from a PDF file, for example journalists |
 
 ### :movie_camera: Music Video
-You can view the results in ___the posts on my Telegram account___
+You can view the results in ___the posts on my Telegram account___ or [here](https://www.youtube.com/playlist?list=PLe25Qgw2EMXAzBzWqKLGpKaGMCTCEo-Ag)
 |    Title     |                         Description                         |                         Technologies                         |  Language  |
 | ------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
 | **Rána Rië** | The journey of a unicorn that lights the path with its glow | _Creative Thinking_, _ChatGPT_, _Suno AI_, _Flux_, _Luna AI_ | Quenya     |
