@@ -19,18 +19,18 @@ The results can be viewed without code on [YouTube](https://www.youtube.com/play
 <div id="technical-tests-types" align="left">
   <img alt="Figma (2)" src="https://img.shields.io/badge/Figma-2-B71C1C?style=for-the-badge" />
   <img alt="Bots (2)" src="https://img.shields.io/badge/Bots-2-B71C1C?style=for-the-badge" />
-  <img alt="FullStack (1)" src="https://img.shields.io/badge/FullStack-1-B71C1C?style=for-the-badge" />
+  <img alt="FullStack (2)" src="https://img.shields.io/badge/FullStack-2-B71C1C?style=for-the-badge" />
   <img alt="FrontEnd (6)" src="https://img.shields.io/badge/FrontEnd-6-B71C1C?style=for-the-badge" />
   <img alt="BackEnd (2)" src="https://img.shields.io/badge/BackEnd-2-B71C1C?style=for-the-badge" />
 </div>
 
-#### Completed (13)
+#### Completed (14)
 <div id="technical-tests-language" align="left">
   <img alt="Figma (2)" src="https://img.shields.io/badge/Figma-2-1A237E?style=for-the-badge" />
   <img alt="Python (3)" src="https://img.shields.io/badge/Python-3-1A237E?style=for-the-badge" />
   <img alt="NestJS (2)" src="https://img.shields.io/badge/NestJS-2-1A237E?style=for-the-badge" />
-  <img alt="NodeJS (1)" src="https://img.shields.io/badge/NodeJS-1-1A237E?style=for-the-badge" />
-  <img alt="ReactJS (3)" src="https://img.shields.io/badge/ReactJS-3-1A237E?style=for-the-badge" />
+  <img alt="NodeJS (2)" src="https://img.shields.io/badge/NodeJS-2-1A237E?style=for-the-badge" />
+  <img alt="ReactJS (4)" src="https://img.shields.io/badge/ReactJS-4-1A237E?style=for-the-badge" />
   <img alt="Vite (1)" src="https://img.shields.io/badge/Vite-1-1A237E?style=for-the-badge" />
   <img alt="Static (1)" src="https://img.shields.io/badge/Static-1-1A237E?style=for-the-badge" />
 </div>
