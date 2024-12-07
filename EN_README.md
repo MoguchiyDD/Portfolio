@@ -52,9 +52,9 @@ You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe2
 
 ### :video_game: Games
 You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBtKHILNYUqUZr3hvb1aotp)
-|                             Path                             |                                        Description                                        |
-| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**) |
+|                               Path                               |                                        Description                                        |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **[Minesweeper](https://github.com/MoguchiyDD/MinesweeperGame)** | Creation of the Minesweeper Game. Bombs from 10 to 19 (random) (**Python** + **Tkinter**) |
 
 ### :izakaya_lantern: Applications
 You can view the results on [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCMKFSEHMicQ5r0PcTAj2iW)
