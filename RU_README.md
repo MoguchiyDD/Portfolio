@@ -52,9 +52,9 @@
 
 ### :video_game: Игры
 Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXBtKHILNYUqUZr3hvb1aotp)
-|                             Путь                             |                                 Описание                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| **[Minesweeper](https://github.com/MoguchiyDD/Minesweeper)** | Создание игры Сапёр. Бомб от 10 до 19 (рандом) (**Python** + **Tkinter**) |
+|                               Путь                               |                                 Описание                                  |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **[Minesweeper](https://github.com/MoguchiyDD/MinesweeperGame)** | Создание игры Сапёр. Бомб от 10 до 19 (рандом) (**Python** + **Tkinter**) |
 
 ### :izakaya_lantern: Приложения
 Результаты можно просмотреть в [YouTube](https://www.youtube.com/playlist?list=PLe25Qgw2EMXCMKFSEHMicQ5r0PcTAj2iW)
